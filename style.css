@@ -1,0 +1,32 @@
+.header{display: flex;
+background-color: pink;
+height: 10%;
+width: 100%;
+}
+.ojo{display:flex;
+flex-wrap: nowrap;
+height: 80%;
+}
+.main{
+display:flex;
+width: 20%;
+background-color: antiquewhite;
+margin: 10px 10px 10px 0px;
+}
+.nav1{display:flex;
+width: 80%;
+background-color: aqua;
+}
+.nav2{display:flex;
+align-self: flex-end;
+justify-self: space-between;
+margin:30px;
+width:30%;
+height:40%;
+background-color: blueviolet;
+}
+.footer{display: flex;
+background-color: pink;
+height: 10%;
+width:100%;
+}
