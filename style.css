@@ -4,7 +4,6 @@ height: 10%;
 width: 100%;
 }
 .ojo{display:flex;
-flex-wrap: nowrap;
 height: 80%;
 }
 .main{
